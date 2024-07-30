@@ -1,0 +1,11 @@
+body {
+  background-color: #b7ddff;
+}
+
+.col-3 {
+  background-color: #ffe0fe;
+  width: 32%;
+  float: left;
+  padding: 0 15px;
+  margin: 15px 30px;
+}
